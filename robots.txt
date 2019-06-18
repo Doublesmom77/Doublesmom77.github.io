@@ -1,0 +1,6 @@
+Sitemap: http://PLACEHOLDER.wpsho/sitemap.xml
+Sitemap: http://PLACEHOLDER.wpsho/news-sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
